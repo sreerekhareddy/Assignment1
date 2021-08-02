@@ -2,7 +2,7 @@
 
 Hi,
 
-I am have done my first assignment. i have completed following tasks.
+I am have done my first assignment. i have completed following tasks ad i have attached the docx file in this url.
 
 1)Create 3 users
 2)create one group
